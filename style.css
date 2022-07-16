@@ -1,0 +1,39 @@
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("img/poker.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: x-large;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #01632d;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 5px 0;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 30px 4px;
+    box-shadow: 5px 10px;
+}
+
+button:hover {
+    width: 154px;
+    margin: 30px 2px;
+}
